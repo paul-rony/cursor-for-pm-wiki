@@ -25,6 +25,6 @@ Built to be queried and extended by an AI coding agent (e.g., Claude Code). If y
 | Indie / bootstrapped | [[Indie and Bootstrapped Tools]] + per-tool notes |
 | Open source | [[Open Source Projects]] + per-project notes |
 | User sentiment | [[User Testimonials]], [[Where AI PM Tools Fall Short]], [[The Judgment and Taste Critique]] |
-| Analysis | [[Market Map and the Open Gap]], [[Evidence and Sourcing Notes]] |
+| Analysis | [[Market Size and Popularity]], [[The Scaling Debate]], [[Market Map and the Open Gap]], [[Evidence and Sourcing Notes]] |
 
 _Compiled 2026-05-29. Every claim is tagged for confidence (`[Confirmed]` / `[Unverified]` / `[Inference]`) and carries inline source links. See `CLAUDE.md` for conventions._

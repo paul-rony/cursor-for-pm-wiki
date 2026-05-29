@@ -64,6 +64,10 @@ A map of content for the space YC named its #1 Spring 2026 Request for Startups:
 
 ## Analysis
 
+* [[Market Size and Popularity]] -- persona size, market sizing, and AI-adoption data (is it niche?)
+
+* [[The Scaling Debate]] -- does this layer survive, or get absorbed by foundation models?
+
 * [[Market Map and the Open Gap]] -- three layers, the unbuilt full loop, who's closest
 
 * [[Evidence and Sourcing Notes]] -- confidence conventions and what couldn't be verified

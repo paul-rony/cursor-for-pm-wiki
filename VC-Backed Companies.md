@@ -34,6 +34,7 @@ Tiered index of venture-backed companies building toward (or adjacent to) the [[
 * [[Productboard]] -- roadmap/prioritization incumbent; "Pulse" AI. **$125M Series D (Feb 2022), $1.725B valuation.**
 * **Maven AGI** -- enterprise CX/support agents (adjacent, not PM discovery). **$50M Series B (Jun 2025, Dell Technologies Capital)**, $78M total. `[Confirmed]`
 * **Avoma** -- AI meeting/conversation intelligence; a feedback *source*. ~$12M total / $12M Series A. `[Unverified]` (aggregator-sourced)
+* [[Granola]] -- AI meeting notepad; an ingest/meeting-intelligence *source*. 2.0's "folder chat" nudges into synthesis. **$43M Series B at $250M valuation (May 2025, NFDG)**, ~$67M total. `[Confirmed]`
 * **Cursor / Anysphere** -- the namesake **coding** tool, *not* a PM product. Included only to disambiguate. **$2.3B Series D (Nov 2025, $29.3B valuation)**, ~$2B ARR. `[Confirmed]`
 
 ## Not VC-backed (cross-reference)

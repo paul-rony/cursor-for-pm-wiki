@@ -34,6 +34,8 @@ A map of content for the space YC named its #1 Spring 2026 Request for Startups:
 
 * [[Productboard]] -- roadmap incumbent layering AI on top; $1.7B valuation
 
+* [[Granola]] -- AI meeting notepad; adjacent ingest/synthesis layer ($43M Series B, NFDG)
+
 ## Indie & Bootstrapped
 
 * [[Indie and Bootstrapped Tools]] -- the self-funded long tail (start here)

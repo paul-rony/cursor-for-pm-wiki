@@ -20,6 +20,8 @@ Index of self-funded / bootstrapped products in the "Cursor for PMs" space — c
 
 * [[Sprntly]] -- pre-launch "AI agents for product managers" doing the full loop (signals → ranked hypotheses → PRD → Figma → Claude Code/Cursor handoff). **Funding/indie status `[Unverified]` — could turn out VC-backed.**
 
+* [[Wien AI]] -- pre-launch "feedback → dev-ready specs" tool (insights → PRD → dev tasks → Cursor/Claude Code export). **Single-source (a `vercel.app` landing page); funding/team/customers all `[Unverified]`.**
+
 ## Other names (cross-reference)
 
 `[Confirmed]` bootstrapped but weaker loop fit (feedback-collection/roadmap, not synthesis-to-spec):

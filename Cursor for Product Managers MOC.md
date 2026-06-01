@@ -46,6 +46,8 @@ A map of content for the space YC named its #1 Spring 2026 Request for Startups:
 
 * [[Sprntly]] -- pre-launch; strongest conceptual match to the full loop
 
+* [[Wien AI]] -- pre-launch; full-loop positioning (feedback → PRD → dev specs), single-source / unverified
+
 ## Open Source
 
 * [[Open Source Projects]] -- OSS index, with stars/licenses (start here)

@@ -74,4 +74,6 @@ A map of content for the space YC named its #1 Spring 2026 Request for Startups:
 
 * [[Market Map and the Open Gap]] -- three layers, the unbuilt full loop, who's closest
 
+* [[The Substrate-vs-Loop Tension]] -- substrate owners vs loop pitchers; who's better placed to close the loop
+
 * [[Evidence and Sourcing Notes]] -- confidence conventions and what couldn't be verified

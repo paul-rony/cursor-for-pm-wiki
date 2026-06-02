@@ -47,6 +47,7 @@ The "Cursor for PMs" prize is whoever **stitches layers 1→3 into one loop with
 ## See Also
 
 - [[The Full Discovery Loop]] -- the capability rubric
+- [[The Substrate-vs-Loop Tension]] -- why the gap persists: who owns the data vs who pitches the loop
 - [[VC-Backed Companies]] / [[Indie and Bootstrapped Tools]] / [[Open Source Projects]] -- the rosters
 - [[Critiques of the Framing]] -- the standalone-product-vs-feature debate
 - [[Evidence and Sourcing Notes]] -- confidence caveats

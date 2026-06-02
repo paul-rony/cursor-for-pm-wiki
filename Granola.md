@@ -12,7 +12,7 @@ AI notepad for meetings — transcribes conversations, enhances the user's own n
 - **Website:** granola.ai — **London, UK**; founded **March 2023** by **Chris Pedregal** and **Sam Stephenson**. `[Confirmed]`
 - **Funding:** `[Confirmed]` **$43M Series B at a $250M valuation (announced 2025-05-14), led by NFDG (Nat Friedman & Daniel Gross)**; existing investors Lightspeed (Mike Mignano) and Spark Capital (Nabeel Hyatt) participated. **~$67M total raised.**
 - **Notable angels:** `[Confirmed]` Guillermo Rauch (Vercel), Amjad Masad (Replit), Tobi Lütke (Shopify), Karri Saarinen (Linear), Des Traynor (Intercom), Lenny Rachitsky, among others.
-- **Later valuation:** `[Unverified]` (single-source) — reported to have reached ~$1.5B within a year of the Series B. Do not present as fact.
+- **Later valuation:** `[Confirmed]` **$125M raise at a ~$1.5B valuation (Mar 2026)** — under a year after the Series B; reflects expansion from notetaker into an enterprise context app (see [[The Scaling Debate]]).
 - **YC:** No. `[Confirmed]` (absence)
 
 ## Granola 2.0
@@ -36,3 +36,4 @@ AI notepad for meetings — transcribes conversations, enhances the user's own n
 - [TechCrunch — AI note-taking app Granola raises $43M at $250M valuation](https://techcrunch.com/2025/05/14/ai-note-taking-app-granola-raises-43m-at-250m-valuation-launches-collaborative-features/) — round, valuation, collaborative features.
 - [BusinessWire — Granola Launches AI Workspace for Teams and Raises $43M Series B](https://www.businesswire.com/news/home/20250514342646/en/Granola-Launches-AI-Workspace-for-Teams-and-Raises-$43M-Series-B) — investors and angels.
 - [The SaaS News — Granola Raises $43 Million in Series B](https://www.thesaasnews.com/news/granola-raises-43-million-in-series-b) — founders, founding date, ~$67M total.
+- [TechCrunch — Granola raises $125M, hits $1.5B valuation (Mar 2026)](https://techcrunch.com/2026/03/25/granola-raises-125m-hits-1-5b-valuation-) — later round; expansion into enterprise context.

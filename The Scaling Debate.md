@@ -37,6 +37,7 @@ The durability question: as foundation models scale (longer context, better synt
 - [[The What-to-Build Bottleneck]] -- the thesis this stress-tests
 - [[Market Size and Popularity]] -- the adoption/persona data behind both cases
 - [[Market Map and the Open Gap]] -- where defensibility might live
+- [[The Substrate-vs-Loop Tension]] -- the data-ownership asymmetry behind defensibility
 - [[Critiques of the Framing]] -- "recommendations vs. executable contracts"
 - [[The Judgment and Taste Critique]] -- the human limit on full automation
 
